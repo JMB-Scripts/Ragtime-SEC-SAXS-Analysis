@@ -1,4 +1,4 @@
-### SEC-SAXS-Analysis
+### Ragtime-SEC-SAXS-Analysis
 
 This script allows you to analyze and plot the elution profile of your SEC-SAXS experiment using already subtracted (.dat) files.
 It creates two text files:
@@ -57,3 +57,4 @@ To launch the script in your terminal type:
 
 
 JMB
+NB: I named the script Ragtime as a nod to Foxtrot usesd on the Swing beamline at Soleil synchrotron, the software that inspired it. Just as the Foxtrot dance was originally performed to ragtime music, Ragtime follows the same philosophy as Foxtrot—processing SAXS data .
