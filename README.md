@@ -97,6 +97,7 @@ It has been tested only on SEC-SAXS data from SWING beamline at Soleil-synchrotr
 (but should work with files from other SEC-SAXS beamlines)
 
 ## Stand alone versions :
+/!\ For the first run be patient, the embeded matplotlib needs to compile and it takes sometimes /!\
 
 Windows is here :
 coming soon
