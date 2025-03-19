@@ -112,4 +112,5 @@ Again your feedback is essential to help me improve and continue this project.
 You can reach out to me directly at [reach out to me via email](jean-marie.bourhis@univ-grenoble-alpes.fr).
 
 
-# NB: I named the script Ragtime as a nod to Foxtrot usesd on SWING beamline at Soleil-synchrotron France, the software that inspired it. Just as the Foxtrot dance was originally performed to ragtime music. Ragtime follows the same philosophy as Foxtrot for processing Sec-SAXS data .
+### NB: 
+   I named the script Ragtime as a nod to Foxtrot usesd on SWING beamline at Soleil-synchrotron France, the software that inspired it. Just as the Foxtrot dance was originally performed to ragtime music. Ragtime follows the same philosophy as Foxtrot for processing Sec-SAXS data .
