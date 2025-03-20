@@ -103,9 +103,11 @@ Windows is  :
 
 [Here](https://cloud.univ-grenoble-alpes.fr/s/Rcw7yppnje9aByY)
 
-MAc.app is here:  (if it doesn't start go to Privacy & Security and click on open anyway) 
+Mac.app is :   
 
 [Here](https://cloud.univ-grenoble-alpes.fr/s/XrtLd6Cd32Jmeyx)
+
+(if it doesn't start go to Privacy & Security and click on open anyway)
 
 Linux is :
 
