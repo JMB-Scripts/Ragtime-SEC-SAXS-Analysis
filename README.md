@@ -99,16 +99,17 @@ It has been tested only on SEC-SAXS data from SWING beamline at Soleil-synchrotr
 ## Stand alone versions :
 /!\ For the first run be patient, the embeded matplotlib needs to compile and it takes sometimes /!\
 
-Windows is here :
-coming soon
+Windows is  :
+
+[Here](https://cloud.univ-grenoble-alpes.fr/s/Rcw7yppnje9aByY)
 
 MAc.app is here:  (if it doesn't start go to Privacy & Security and click on open anyway) 
 
 [Here](https://cloud.univ-grenoble-alpes.fr/s/XrtLd6Cd32Jmeyx)
 
-Linux is here:
-coming soon 
+Linux is :
 
+[Here](https://cloud.univ-grenoble-alpes.fr/s/JBXbj5Tca3fefj3)
 
 Again your feedback is essential to help me improve and continue this project. 
 You can reach out to me directly at [reach out to me via email](jean-marie.bourhis@univ-grenoble-alpes.fr).
