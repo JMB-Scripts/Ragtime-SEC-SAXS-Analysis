@@ -116,6 +116,13 @@ Linux is :
 Again your feedback is essential to help me improve and continue this project. 
 You can reach out to me directly at [reach out to me via email](jean-marie.bourhis@univ-grenoble-alpes.fr).
 
+## References :
+
+Putnam, C. D., Hammel, M., Hura, G. L. & Tainer, J. a (2007). Q. Rev. Biophys. 40, 191–285. DOI: 10.1017/S0033583507004635
+
+Rambo, R. P. & Tainer, J. A. (2013). Nature. 496, 477–481. DOI: 10.1038/nature12070
+
+J. Perez, P. Vachette, D. Russo, M. Desmadril, D. Durand (2001) J. Mol. Biol., 308 , pp. 721-743. DOI: 10.1006/jmbi.2001.4611
 
 ### NB: 
    I named the script Ragtime as a nod to Foxtrot usesd on SWING beamline at Soleil-synchrotron France, the software that inspired it. Just as the Foxtrot dance was originally performed to ragtime music. Ragtime follows the same philosophy as Foxtrot for processing Sec-SAXS data .
