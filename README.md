@@ -73,8 +73,11 @@ A gui will appear
 
    - will  find the guinier region
    - displays 4 plots:    1- the Form factor
+     
                           2- the Guinier region with its residuals
+     
                           3- Normalized Kratky plot
+     
                           4- Volume of correlation to estimate the MW
 
 ![image](https://github.com/user-attachments/assets/852d89e8-67fe-47fd-b32e-0e990912a0e7)
@@ -87,6 +90,7 @@ A gui will appear
 
 - Process alls the files
 - Diplays a 2 plots : 1- I(0) and Rg vs frame number
+  
                       2- I(0) and MW vs frame number
 
 ![image](https://github.com/user-attachments/assets/7381ac6b-af85-4253-9f3e-8ada251f717f)
